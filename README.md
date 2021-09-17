@@ -1,5 +1,5 @@
 # CRUD EM C
- CRUD básico em C para produto ultilizando a linguagem de programação C, a ferramenta de desenlvolvimento Dev C++.
+ CRUD básico em C para estoque de produto ultilizando a linguagem de programação C, a ferramenta de desenlvolvimento Dev C++.
 # Funcionalidades
 - Cadastrar um produto![WhatsApp Image 2021-09-17 at 13 44 31](https://user-images.githubusercontent.com/58871059/133832697-11687bfa-90a3-433c-9c85-20a1082df255.jpeg)
 Será registrando o código do produto, quantidade, nome, descrição do produto e sua unidade de medida.
