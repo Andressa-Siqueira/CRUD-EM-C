@@ -11,7 +11,7 @@ typedef struct Produto{
 
 //variaveis globais
 
-Produto p; //Instância do Struct Aluno
+Produto p; //Instância do Struct do Produto
 
  
 //prototipos das funcoes do CRUD
@@ -29,7 +29,7 @@ int idProduto(int idBuscar){
 	int test;
 	//Executa a operação de pesquisa
 	while(fread(&p,sizeof(Produto),1,arquivoProduto)){
-		//Verifica se a matricula existe
+		//Verifica se o produto já existe
 		if(idBuscar==p.id){
 				return 1;
 			}
